@@ -1,3 +1,7 @@
-## Yo, I'm a Readme
+## FailGram
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+> A simple Backbone App that uses Parse.com as a BaaS. 
+
+"An Instagram for Fail Gifs!"
+
+Check me out here -> 
